@@ -38,7 +38,7 @@ Used for transitions
 
 ### Responsive App
 
-Devices with with less than 1224px are treated as mobile
+Devices with width less than 1224px are treated as mobile
 
 ### Color Palette 
 
